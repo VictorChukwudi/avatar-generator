@@ -26,4 +26,4 @@ $ npm run dev
 
 - open a browser and run
 
-> > localhost:5000
+> localhost:5000
